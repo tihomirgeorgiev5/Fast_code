@@ -1,0 +1,15 @@
+// How to run JavaScript in Notepad++
+
+1. Install node.js
+
+2. Install notepad++
+
+3. Install nppExec
+
+var n1 = 24;
+var n2 = 35;
+var sum = n1 + n2;
+console.log("The Sum of " + n1 + " and " + n2 + " is: " + sum);
+
+cd $(CURRENT_DIRECTORY)
+node $(FILE_NAME)
